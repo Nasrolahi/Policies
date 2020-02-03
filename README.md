@@ -4,7 +4,7 @@
 
 <p lang="fa" dir="rtl" align="right">در حد امکان از room orm برای دسترسی به دیتابیس استفاده کنید.</p1>
 <p lang="fa" dir="rtl" align="right">نام گذاری منابع موجود در res به شکل زیر نام گذاری شوند. (لازم به ذکر است که حتما باید از حروف کوچک و آندرلاین استفاده کرد و حروف بزرگ و دش  و فاصله مشکل سازند)</p1>
-![alt text](https://jeroenmols.com/img/blog/resourcenaming/resourcenaming_cheatsheet.png)
+<img>https://jeroenmols.com/img/blog/resourcenaming/resourcenaming_cheatsheet.png</img>
 <p lang="fa" dir="rtl" align="right">برای استفاده از تایپ فیس میتوان از دو روش مرسوم استفاده کرد یکی لایبرری calligraphy که یک بار در کلاس App مقداردهی میشود و همه متن ها را بر اساس تایپ فیس موردنظر تغییر میدهد. دوم استفاده از CustomView به طور مثال IranSansTextView</p1>
 <p lang="fa" dir="rtl" align="right">برای icon تا حد امکان از svg یا 9patch استفاده شود.</p1>
 <p lang="fa" dir="rtl" align="right">از Template از پیش تعیین شده موجود در گیت برای ساختار و پکیج بندی پروژه استفاده کنید.</p1>
