@@ -31,9 +31,9 @@
 <p lang="fa" dir="rtl" align="right">برای نامگذاری متغییرها و توابع حرف اول کلمه اول کوچک و حروف اول کلمه های بعدی uppercase باشد مثل: getData</p1>
 
 <p lang="fa" dir="rtl" align="right">وقتی یک زنجیره متد پشت سرهم فراخوانی میشوند بهتر است به شکل زیر نوشته شود:</p1>
+
 ```sh
 Picasso.with(context)
         .load("http://ribot.co.uk/images/img.jpg")
         .into(imageView);
-
 ```
