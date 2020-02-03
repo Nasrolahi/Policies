@@ -12,15 +12,15 @@
 
 <p lang="fa" dir="rtl" align="right">برای icon تا حد امکان از svg یا 9patch استفاده شود.</p1>
 
-<p lang="fa" dir="rtl" align="right">از Template از پیش تعیین شده موجود در گیت برای ساختار و پکیج بندی پروژه استفاده کنید.</p1>
+<p lang="fa" dir="rtl" align="right">از Template از پیش تعیین شده موجود در گیت برای ساختار و پکیج بندی پروژه استفاده کنید</p1>
 
 <p lang="fa" dir="rtl" align="right">به هیچ وجه context را static نکنید. (به جز android context)</p1>
 
-<p lang="fa" dir="rtl" align="right">برای ساختن singleton از کلاس مورد نظر در کاتلین کافی است به جای کلیدواژه class از کلیدواژه object برای تعریف کردن کلاس استفاده کنید.</p1>
+<p lang="fa" dir="rtl" align="right">برای ساختن singleton از کلاس مورد نظر در کاتلین کافی است به جای کلیدواژه class از کلیدواژه object برای تعریف کردن کلاس استفاده کنید</p1>
 
 <p lang="fa" dir="rtl" align="right">کلاس های view به طور مثال activity,fragment,… باید تا حد امکان بی منطق باشند و لاجیک در  vm نوشته شود.</p1>
 
-<p lang="fa" dir="rtl" align="right">برای data class هایی که دارای sub type هستند کلاس های sub type در همان کلاس به صورت inner class تعریف شوند مگر اینکه یک sub type جنرال باشد که حداقل در یک data class دیگر تعریف شود در این صورت باید یک فایل جدا باشد.</p1>
+<p lang="fa" dir="rtl" align="right">برای data class هایی که دارای sub type هستند کلاس های sub type در همان کلاس به صورت inner class تعریف شوند مگر اینکه یک sub type جنرال باشد که حداقل در یک data class دیگر تعریف شود در این صورت باید یک فایل جدا باشد</p1>
 
 <p lang="fa" dir="rtl" align="right">در صورت نیاز به استفاده از سرویس ها بسته به عمل موردنظر از work manager یا forground service و... استفاده کنید.</p1>
 
