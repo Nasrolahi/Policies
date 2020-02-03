@@ -1,6 +1,6 @@
 <h1 lang="fa" dir="rtl" align="right">راهنمای توسعه اصولی نرم افزار اندروید</h1>
 
-<p lang="fa" dir="rtl" align="right">به جای serialize کردن data calss ها آن ها را parcelize کنید. Parcelable چندین برابر Serializable سریع است و مثل Serializable آبجکت های موقت بیشمار تولید نمیکند. همچنین کاتلین انوتیشن @Parcelize دارد که از نوشتن همه implementation کلاس Parcelable جلوگیری میکند.</p1>
+<p lang="fa" dir="rtl" align="right">1- به جای serialize کردن data calss ها آن ها را parcelize کنید. Parcelable چندین برابر Serializable سریع است و مثل Serializable آبجکت های موقت بیشمار تولید نمیکند. همچنین کاتلین انوتیشن @Parcelize دارد که از نوشتن همه implementation کلاس Parcelable جلوگیری میکند.</p1>
 
 <p lang="fa" dir="rtl" align="right">در حد امکان از room orm برای دسترسی به دیتابیس استفاده کنید.</p1>
 <p lang="fa" dir="rtl" align="right">نام گذاری منابع موجود در res به شکل زیر نام گذاری شوند. (لازم به ذکر است که حتما باید از حروف کوچک و آندرلاین استفاده کرد و حروف بزرگ و دش  و فاصله مشکل سازند)</p1>
